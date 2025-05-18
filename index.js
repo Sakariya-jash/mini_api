@@ -12,5 +12,5 @@ app.post('/api/users/:id/update', (req, res) => {
 });
 
 app.listen(8800, () => {
-  console.log(`backend server is running`);
+  console.log(`backend server is running on 5500`);
 });
